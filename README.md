@@ -6,13 +6,6 @@ Velvet Tails is a production-ready e-commerce store for pet accessories. It prov
 ## Why I built this
 This was a freelance project for a merchant who needed a dependable webshop that handled real business operations — accurate payments, predictable shipping, and clear invoices for accounting. While working on the store I repeatedly ran into reconciliation and tracking issues in production; building Velvet Tails was about eliminating those operational gaps and making merchant workflows auditable and reliable.
 
-## Smallest useful version (MVP)
-- Public product listing and product details
-- User registration/login
-- Cart and server-side order creation
-- PayU test-mode checkout with server-side amount calculation and verification
-- Downloadable invoice PDF generation
-- Basic admin to add products and view orders
 
 ## How to run (quick)
 Prerequisites: Node.js 18+, npm, MongoDB (local or cloud), Cloudinary account (for product images), PayU sandbox credentials, Shiprocket credentials.
